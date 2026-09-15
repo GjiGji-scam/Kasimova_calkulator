@@ -22,8 +22,7 @@ android.sdk = 24
 android.build_tools_version = 33.0.2
 
 android.archs = arm64-v8a, armeabi-v7a
-android.permissions = 
+android.permissions =
 android.release_artifact = apk
 android.debug_artifact = apk
-android.presplash_color = #000000iOS-калькулятора)
 android.presplash_color = #000000
